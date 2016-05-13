@@ -20,7 +20,7 @@ After Each day:
 - Pay feeding cost for each animal
 - Random event occurs
 
-  -Sickness(a animal dies in your zoo)
-  -Boom(Bonus money earned for each tiger owned)
-  -Baby(Baby is born)
-  -Nothing happens
+  - Sickness(a animal dies in your zoo)
+  - Boom(Bonus money earned for each tiger owned)
+  - Baby(Baby is born)
+  - Nothing happens
