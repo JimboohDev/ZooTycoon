@@ -8,9 +8,18 @@ Penguins. You start with an initial amount of money in your zoo bank, and from t
 you can begin to operate. 
 
 Initial Amount of money: $500,000
+
 Four types of animals:
 - Tiger
 - Polar Bear
 - Penguin
 - Shark
 
+After Each day:
+-Earn payoff for each animal
+-Pay feeding cost for each animal
+-Random event occurs
+  -Sickness(a animal dies in your zoo)
+  -Boom(Bonus money earned for each tiger owned)
+  -Baby(Baby is born)
+  -Nothing happens
