@@ -16,9 +16,10 @@ Four types of animals:
 - Shark
 
 After Each day:
--Earn payoff for each animal
--Pay feeding cost for each animal
--Random event occurs
+- Earn payoff for each animal
+- Pay feeding cost for each animal
+- Random event occurs
+
   -Sickness(a animal dies in your zoo)
   -Boom(Bonus money earned for each tiger owned)
   -Baby(Baby is born)
